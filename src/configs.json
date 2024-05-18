@@ -1,0 +1,13 @@
+{
+    "MovieListURL": "https://7s36s95y.pegaacademy.net/prweb/api/v1/data/D_AvailableMoviesAndCategories?isCategoryList=false",
+    "GenreListURL": "https://7s36s95y.pegaacademy.net/prweb/api/v1/data/D_AvailableMoviesAndCategories?isCategoryList=true",
+    "LoginURL": "https://7s36s95y.pegaacademy.net/prweb/api/MovieLy/V1/login",
+    "CartDetails": "https://7s36s95y.pegaacademy.net/prweb/api/v1/data/D_AvailableMovieList?UserID=",
+    "ManageCart": "https://7s36s95y.pegaacademy.net/prweb/api/MovieLy/V1/cart",
+    "AddNewUser": "https://7s36s95y.pegaacademy.net/prweb/api/MovieLyUnauth/V1/createUser",
+    "Checkout": "https://7s36s95y.pegaacademy.net/prweb/api/v1/cases",
+    "MovieDetails": "https://7s36s95y.pegaacademy.net/prweb/api/v1/data/D_MoviesInventory?pyGUID=",
+    "GetOrderList": "https://7s36s95y.pegaacademy.net/prweb/api/v1/data/D_GetCasesByUser?UserID=",
+    "Assignment": "https://7s36s95y.pegaacademy.net/prweb/api/v1/assignments/",
+    "CaseDetails": "https://7s36s95y.pegaacademy.net/prweb/api/v1/data/D_RentalProcess?pyID="
+}
